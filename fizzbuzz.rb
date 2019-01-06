@@ -3,7 +3,7 @@
 
 int = gets.chomp
 
-def fizzbuzz(int)
+def fizzbuzz(3)
   if (int % 3 == 0)
     return "Fizz"
   end
